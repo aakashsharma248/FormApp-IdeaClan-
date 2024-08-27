@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FormApp-IdeaClan-/static/css/main.e6c13ad2.css",
+    "main.js": "/FormApp-IdeaClan-/static/js/main.8a264217.js",
+    "index.html": "/FormApp-IdeaClan-/index.html",
+    "main.e6c13ad2.css.map": "/FormApp-IdeaClan-/static/css/main.e6c13ad2.css.map",
+    "main.8a264217.js.map": "/FormApp-IdeaClan-/static/js/main.8a264217.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8a264217.js"
+  ]
+}
